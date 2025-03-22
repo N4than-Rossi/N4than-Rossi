@@ -1,4 +1,5 @@
-## Hi there 👋
+## Nathan Rossi
+👋 bem-vindo ao meu perfil do github! sou um estudante de C e C++.
 
 <!--
 **N4than-Rossi/N4than-Rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
