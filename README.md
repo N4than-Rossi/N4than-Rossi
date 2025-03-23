@@ -1,5 +1,5 @@
 ## Nathan Rossi
-👋 bem-vindo ao meu perfil do github! Estou aperfeiçoando minhas habilidades naas linguagens C e C++.
+👋 bem-vindo ao meu perfil do github! Estou aperfeiçoando minhas habilidades C e C++ 🧑‍💻⚡
 
 <!--
 **N4than-Rossi/N4than-Rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
