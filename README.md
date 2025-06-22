@@ -1,5 +1,5 @@
 # Nathan Rossi
-👋 bem-vindo ao meu perfil do github! Estou aperfeiçoando minhas habilidades de C e C++ 🧑‍💻⚡
+👋 bem-vindo ao meu perfil do github! Estou aperfeiçoando minhas habilidades de C, C++, HTML e CSS 🧑‍💻⚡
 
 ## 📊 Estatísticas
 ![n4than-rossi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n4than-rossi&theme=react&show_icons=true&hide_border=false&layout=compact)
