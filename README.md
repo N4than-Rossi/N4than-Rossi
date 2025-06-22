@@ -2,9 +2,9 @@
 👋 bem-vindo ao meu perfil do github! Estou aperfeiçoando minhas habilidades de C, C++, HTML e CSS 🧑‍💻⚡
 
 ## 📊 Estatísticas
-![n4than-rossi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n4than-rossi&theme=react&show_icons=true&hide_border=false&layout=compact)
+![n4than-rossi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n4than-rossi&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-![n4than-rossi's Stats](https://github-readme-stats.vercel.app/api?username=n4than-rossi&theme=react&show_icons=true&hide_border=false&count_private=true)
+![n4than-rossi's Stats](https://github-readme-stats.vercel.app/api?username=n4than-rossi&theme=react&show_icons=true&hide_border=true&count_private=true)
 <!--
 **N4than-Rossi/N4than-Rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
